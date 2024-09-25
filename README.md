@@ -14,10 +14,4 @@
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/TwiRwal/HyperionForRblx/main/Launcher"))()
 ```
-#### Launcher - Lastest Version / tester
-```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/TwiRwal/HyperionForRblx/refs/heads/main/Launcher?token=GHSAT0AAAAAACVCM2XKS3RY3QYVAY27WKLGZXUEIZA"))()
-```
-
-
 
