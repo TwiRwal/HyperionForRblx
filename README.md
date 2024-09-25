@@ -1,5 +1,3 @@
-# × | HyperionForRblx | ×
-
 <p align="center">
     <img src="https://raw.githubusercontent.com/TwiRwal/HyperionForRblx/main/Assets/HyperionBanner.png" style="width: 69%">
 </p>
