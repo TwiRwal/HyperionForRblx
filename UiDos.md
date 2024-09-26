@@ -1,11 +1,11 @@
 # Hyperion Ui Library
 ## Example
 ```lua
-local NoHyper = require(script:WaitForChild('ModuleScript'))
+local NoHyper = loadstring(game:HttpGet("https://raw.githubusercontent.com/TwiRwal/HyperionForRblx/main/HyperionUiLibrary"))()
 
-NoHyper.set_theme('nohyper') -- [[nohyper , bedol , neverlose, green]]
+NoHyper.set_theme('nohyper') -- [[ Theme Are | nohyper , bedol , neverlose, green | ]]
 
-local Window = NoHyper.new('Hello, '..game.Players.LocalPlayer.DisplayName,"rbxassetid://16763260622",'Welcome back!') -- My Logo you can replace it
+local Window = NoHyper.new('Hello, '..game.Players.LocalPlayer.DisplayName,"rbxassetid://128467316314125",'Welcome back!') -- My Logo you can replace it
 Window:NewSize(UDim2.new(0.1,430,0.1,300))
 
 Window:AddYoutube('https://www.youtube.com/your-youtube-channel')
