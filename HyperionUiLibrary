@@ -239,8 +239,8 @@ function NoHyper.new(WindowName,WindowLogo,WindowDescription)
 		Toggle = Enum.KeyCode.LeftControl
 	}
 
-	WindowName = ToDefault(WindowName,'Hello, NoHyper')
-	WindowLogo = ToDefault(WindowLogo,'http://www.roblox.com/asset/?id=16530565354') -- sorry it's Cry Of Fear Logo
+	WindowName = ToDefault(WindowName,'Hello, TwiRwal')
+	WindowLogo = ToDefault(WindowLogo,'http://www.roblox.com/asset/?id=128467316314125')
 	WindowDescription = ToDefault(WindowDescription,'Welcome back!')
 
 	local NoHyperUI = Instance.new("ScreenGui")
