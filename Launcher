@@ -1,1 +1,17 @@
-warn'Coming Soon / HyperionForRblx On Top / CSGO CHEAT REAL hyperion.vip'
+--// Auto Loader \\--
+repeat task.wait() until game:IsLoaded();
+
+--// Anti Kick Idle \\--
+task.spawn(function()
+    if not getgenv().AntiAfk == true then
+        while true do task.wait(1100);
+            pcall(function()
+                game:GetService("VirtualInputManager"):SendKeyEvent(true,"RightBracket",false,game);
+            end)
+        end
+        getgenv().AntiAfk = true;
+    end
+end)
+
+--// Loader \\--
+warn'Hyperion is down we are updating'
