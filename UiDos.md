@@ -4,6 +4,13 @@
 ```lua
 local NoHyper = loadstring(game:HttpGet("https://raw.githubusercontent.com/TwiRwal/HyperionForRblx/main/HyperionUiLibrary"))()
 
+local Notify = NoHyper:MakeNotify({
+        Title = "Example", -- Write Your Title OFC
+        Text = "This Is Example of Notify", -- Write Description Of Title
+        Time = 5 -- Write Time Till Notify Gui Gone
+      })
+Wait() -- Choose Time for Gui Open Or You Can Remove It
+
 NoHyper.set_theme('nohyper') -- Yes You Can Rename It Becuz Its Not My GUI [[ Theme Are | nohyper , bedol , neverlose, green | ]]
 
 local Window = NoHyper.new('Hello, '..game.Players.LocalPlayer.DisplayName,"rbxassetid://128467316314125",'Welcome back!') -- My Logo you can replace it
