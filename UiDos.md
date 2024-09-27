@@ -3,7 +3,7 @@
 ```lua
 local NoHyper = loadstring(game:HttpGet("https://raw.githubusercontent.com/TwiRwal/HyperionForRblx/main/HyperionUiLibrary"))()
 
-NoHyper.set_theme('nohyper') -- [[ Theme Are | nohyper , bedol , neverlose, green | ]]
+NoHyper.set_theme('nohyper') -- Yes You Can Rename It Becuz Its Not My GUI [[ Theme Are | nohyper , bedol , neverlose, green | ]]
 
 local Window = NoHyper.new('Hello, '..game.Players.LocalPlayer.DisplayName,"rbxassetid://128467316314125",'Welcome back!') -- My Logo you can replace it
 Window:NewSize(UDim2.new(0.1,430,0.1,300))
