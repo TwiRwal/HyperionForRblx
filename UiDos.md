@@ -31,7 +31,7 @@ Window:AddWebsite('https://example.com/your-website')
 Window:AddDiscord('https://discord.gg/your-discord')
 ```
 ## Tabs
-```
+```lua
 local General = Window:NewTab('General','earth') -- Icon: ads list folder earth locked home positon notify close color
 local Setting = Window:NewTab('Setting','list')
 ```
@@ -70,4 +70,10 @@ end)
 Example:AddDropdown('Dropdown',{1,2,3,4,5,6,7,8,9,10},5,function(value)
 	print('select')
 end)
+```
+## Credits
+```
+Hyperion Made By NoHyper For CsGo And We Are Make Roblox Version Of It
+Made By TwiRwal
+Gui By Catsus
 ```
