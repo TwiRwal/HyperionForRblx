@@ -1,5 +1,4 @@
 
-- **Hyperion is A Paid CSGO 2 Client By Nohyper And We Dont Own It I Made Roblox For It**
 <p align="center">
     <img src="https://raw.githubusercontent.com/TwiRwal/HyperionForRblx/main/Assets/HyperionBanner.png" style="width: 69%">
 </p>
@@ -18,6 +17,7 @@
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/TwiRwal/Hyperion/main/Launcher"))()
 ```
+- **Hyperion is A Paid CSGO 2 Client By Nohyper And We Dont Own It I Made Roblox For It**
 #### CSGO Launcher - Official Paid
 **www.Hyperion.vip**
 
