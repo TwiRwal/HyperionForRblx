@@ -17,7 +17,7 @@
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/TwiRwal/Hyperion/main/Launcher"))()
 ```
-**Hyperion is A Paid CSGO 2 Client By Nohyper And We Dont Own It I Made Roblox For It**
 #### CSGO Launcher - Official Paid
+**Hyperion is A Paid CSGO 2 Client By Nohyper And We Dont Own It I Made Roblox For It**
 **www.Hyperion.vip**
 
