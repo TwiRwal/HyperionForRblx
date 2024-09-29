@@ -1,6 +1,6 @@
 
 - **Hyperion is A Paid CSGO 2 Client By Nohyper And We Dont Own It I Made Roblox For It**
-official - website for csgo: **Hyperion.vip**
+- official website for csgo: **Hyperion.vip**
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/TwiRwal/HyperionForRblx/main/Assets/HyperionBanner.png" style="width: 69%">
