@@ -6,7 +6,7 @@
 
 #### Our Possibility
 - **Legitimate And Undetectable**
-- **Best Undetectable Auto Parry**
+- **Free And Keyless**
 - **Change Your ChatTag In Chat With Free Limited Cape Hats More**
 - **Skys And More Features**
 #### Credits
@@ -20,4 +20,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/TwiRwal/Hyperion/main
 #### CSGO Launcher - Official Paid
 **Hyperion is A Paid CSGO 2 Client By Nohyper And We Dont Own It**
 **www.Hyperion.vip**
+
+new update: changing it to universal gun games
 
